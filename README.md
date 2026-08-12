@@ -2,11 +2,11 @@
 
 An interactive **Power BI dashboard** designed to analyze digital marketing campaign performance across different channels, with a focus on revenue, cost, conversions, CTR, conversion rate, ROI, and marketing funnel performance.
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Digital Marketing Campaign Performance Dashboard](Dashboard%20Preview.png)
 
-## 🎯 Project Objective
+##  Project Objective
 
 The objective of this project is to analyze digital marketing campaign data and identify:
 
@@ -19,7 +19,7 @@ The objective of this project is to analyze digital marketing campaign data and 
 * Return on Investment (ROI)
 * Marketing funnel performance from impressions to conversions
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **Power BI**
 * **Power Query**
@@ -28,7 +28,7 @@ The objective of this project is to analyze digital marketing campaign data and 
 * Data Visualization
 * KPI Analysis
 
-## 📈 Key KPIs
+##  Key KPIs
 
 | KPI             |   Value |
 | --------------- | ------: |
@@ -38,7 +38,7 @@ The objective of this project is to analyze digital marketing campaign data and 
 | Conversion Rate |  13.16% |
 | ROI             | 312.98% |
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 ### Revenue Trend
 
@@ -68,7 +68,7 @@ Users can filter the dashboard using:
 * Marketing Channel
 * Date Range
 
-## 💡 Key Insights
+##  Key Insights
 
 * **Google Ads** generated the highest number of conversions at **1,360**.
 * **Email** generated **1,080 conversions**, while Instagram generated **545**.
@@ -77,13 +77,13 @@ Users can filter the dashboard using:
 * The dashboard reports an overall **ROI of 312.98%**, indicating strong returns relative to campaign cost.
 * The marketing funnel shows **320K impressions**, **23K clicks**, and approximately **3K conversions**.
 
-## 📁 Files Included
+##  Files Included
 
 * `A Study on Digital Marketing Campaign Performance using Power BI.pbix` — Power BI dashboard file
 * `Dashboard Preview.png` — Dashboard screenshot
 * `README.md` — Project documentation
 
-## 👨‍💻 Project Type
+##  Project Type
 
 **Portfolio Project | Data Analytics | Power BI**
 
