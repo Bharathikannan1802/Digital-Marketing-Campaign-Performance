@@ -19,6 +19,10 @@ The objective of this project is to analyze digital marketing campaign data and 
 * Return on Investment (ROI)
 * Marketing funnel performance from impressions to conversions
 
+## Dataset
+
+The dataset used in this project is a simulated dataset created for portfolio and learning purposes. The values do not represent data from a real company or marketing campaign.
+
 ##  Tools & Technologies
 
 * **Power BI**
